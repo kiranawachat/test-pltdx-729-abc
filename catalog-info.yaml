@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-pltdx-729-abc
+  annotations:
+    github.com/project-slug: kiranawachat/test-pltdx-729-abc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: TIBCO templates
